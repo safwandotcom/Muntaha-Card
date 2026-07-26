@@ -22,7 +22,7 @@ LinkedIn-exported resume PDF.
 
 ## Decisions (approved)
 
-- **Accent color:** same electric blue `#1F35FF` as safwan-card (no new color).
+- **Accent color:** same electric blue `#2e0bfc` as safwan-card (no new color).
 - **Palette/type:** identical to safwan-card — true white background, near-black ink,
   Archivo superfamily, no serif/mono.
 - **Structure:** Hero (+ sticky vCard button) → About → Experience timeline → Skills →
